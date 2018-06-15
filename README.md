@@ -1,1 +1,0 @@
-# Object_Recognition_From_RGBD_Data

@@ -1,0 +1,1 @@
+The RGB and RGB-D images available in the dataset (http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/) should be stored in this folder.
